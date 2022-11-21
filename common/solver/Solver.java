@@ -5,9 +5,6 @@ import java.util.Collection;
 
 public class Solver implements Configuration {
 
-    public Solver() {
-
-    }
 
     @Override
     public Collection<Configuration> getSuccessors() {
